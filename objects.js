@@ -1,10 +1,6 @@
+var playlist = {artistNames:'song'}
 
-var meals = { 
-  breakfast: 'oatmeal',
-  lunch: 'burrito',
-  dinner: 'steak'
+function updatePlaylist(dictionary, artistName, song) {
+  dictionary[artistName] = song
+  return dictionary
 }
-
-meals.snack = 'yogurt'
-
-meals.assign()
