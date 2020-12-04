@@ -1,4 +1,4 @@
-const firstMeal = 'breakfast'
+
 var meals = { 
   breakfast: 'oatmeal',
   lunch: 'burrito',
@@ -7,3 +7,4 @@ var meals = {
 
 meals.snack = 'yogurt'
 
+meals.assign
