@@ -7,4 +7,4 @@ var meals = {
 
 meals.snack = 'yogurt'
 
-meals.assign
+meals.assign()
