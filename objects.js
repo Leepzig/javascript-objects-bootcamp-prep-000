@@ -6,7 +6,7 @@ function updatePlaylist(dictionary, artistName, song) {
 }
 
 function removeFromPlaylist(object, artistName) {
-  delete object.artistName
+  delete object[artistName]
   return object
 }
 console.log(removeFromPlaylist(playlist, 'journey'))
