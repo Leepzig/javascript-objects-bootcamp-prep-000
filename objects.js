@@ -1,3 +1,9 @@
 const firstMeal = 'breakfast'
-var meals = { firstMeal: 'oatmeal'}
+var meals = { 
+  breakfast: 'oatmeal',
+  lunch: 'burrito',
+  dinner: 'steak'
+}
+
+meals.snack = 'yogurt'
 
