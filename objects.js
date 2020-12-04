@@ -1,8 +1,3 @@
-var meals = {}
+const firstMeal = 'breakfast'
+var meals = { firstMeal: 'oatmeal'}
 
-var meals = new Object()
-
-var meals = { breakfast: "oatmeal"
-}
-
-var meals = new Object
