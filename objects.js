@@ -1,4 +1,4 @@
-var playlist = {artistName:'song'}
+var playlist = {journey:'I cant stop'}
 
 function updatePlaylist(dictionary, artistName, song) {
   dictionary[artistName] = song
