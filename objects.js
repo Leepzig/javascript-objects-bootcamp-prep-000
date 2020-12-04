@@ -11,3 +11,5 @@ function removeFromPlaylist(object, artistName) {
 }
 console.log(removeFromPlaylist(playlist, 'journey'))
 console.log(playlist)
+
+console.log(delete playlist.journey)
